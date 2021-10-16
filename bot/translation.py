@@ -5,12 +5,11 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>ഈ ബോട്ട് 𝐌𝐨𝐯𝐢𝐞𝐑𝐨𝐜𝐤𝐳 ഗ്രൂപ്പിലേക്ക് ഉള്ളത് എന്ന് ഇനി വീണ്ടും വീണ്ടും പറയണോ??
+അപ്പോ പിന്നെ എന്തിനാ വീണ്ടും വീണ്ടും സ്റ്റാർട്ട് കുത്തി കളിക്കാൻ വരുന്നേ... ആ സൈഡിലോട്ട് എങ്ങാനും മാറി ഇരിക്ക്‌ ഇനി🤭🤭
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+@MR_ChatGrp
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +42,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@MR_ChatGrp
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
